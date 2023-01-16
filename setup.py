@@ -14,7 +14,7 @@ setup(
     author='Yi Ge',
     author_email='me@yige.ch',
     url='https://github.com/UmakantKulkarni/videocr',
-    download_url='https://github.com/UmakantKulkarni/videocr/archive/v1.0.zip',
+    download_url='https://github.com/UmakantKulkarni/videocr/archive/refs/tags/v1.0.tar.gz',
     install_requires=[
         'fuzzywuzzy>=0.17',
         'python-Levenshtein>=0.12',
